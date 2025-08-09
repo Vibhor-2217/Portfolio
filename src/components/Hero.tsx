@@ -30,11 +30,6 @@ const Hero: React.FC = () => {
                         Full Stack Developer & ML Engineer & Data Scientist
                     </p>
 
-                    <p className="text-lg text-slate-500 dark:text-slate-400 mb-12 max-w-2xl mx-auto leading-relaxed">
-                        I create beautiful, functional, and user-centered digital experiences.
-                        Passionate about clean code, innovative design, and solving complex problems.
-                    </p>
-
                     <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
                         <button
                             onClick={() => scrollToSection('projects')}

@@ -61,7 +61,7 @@ const About: React.FC = () => {
                         <div className="aspect-square bg-gradient-to-br from-blue-400 to-purple-600 rounded-2xl p-1">
                             <div className="w-full h-full bg-slate-100 dark:bg-slate-800 rounded-2xl overflow-hidden">
                                 <img
-                                    src="/self_image.jpg"
+                                    src="/self_iamge.jpg"
                                     alt="Vibhor Gupta"
                                     className="w-full h-full object-cover"   // fill + crop
                                     loading="lazy"
